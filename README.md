@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhishek-Amble.
+- 👋 Hi, I’m @Amble-Abhishek.
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Advanced Java.
 - 💞️ I’m looking to collaborate on Web-App Technology.
-- 📫 How to reach me : canyouseeme1441@gmail.com
+- 📫 How to reach me : ambleabhishek1325@gmail.com
 - ✨ Languages and Tools: Java | C | C++ | HTML | CSS | JS | Solidity | TinkerCad | Matlab (Simulink) | MicroController(Arduino's) | GIT | MySQL . 
 
 <!---
